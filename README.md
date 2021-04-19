@@ -11,7 +11,7 @@ There are for inputs at the top of the page for this assignment, but right now t
 
 ## Rubric
 
-- [ ] Snow VS Rain
-- [ ] Quantity
-- [ ] Click Color
-- [ ] Wind
+- [ X ] Snow VS Rain
+- [ X ] Quantity
+- [ X ] Click Color
+- [ X ] Wind
